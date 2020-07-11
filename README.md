@@ -9,6 +9,7 @@ estou cursando MBA em Engenharia de Software.<br/>
 - [x] Levantamento de Requisitos e filtragem em Requisitos Funcionais e não Funcionais
 - [x] Treinamento e Implantação de software
 - [x] Desenvolvimento do software desde sua arquitetura base até sua publicação
+- [x] Análise com base em engenharia reversa, levantando requisitos impactados
 
 ### Minhas Skills
 
