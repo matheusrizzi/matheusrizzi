@@ -1,11 +1,12 @@
 ## Oi pessoal 👋
 
-Sou desenvolvedor .NET, com conhecimentos avançados em 2 linguagens como C# e VB.NET.<br/>
-Atuo profissionalmente há mais de 11 anos, sou formado em Análise e Desenvolvimento de Sistemas e <br/>
-estou cursando MBA em Engenharia de Software.<br/>
+Sou Tech Lead/Engenheiro de software FullStack .NET, com conhecimentos avançados em C# e VB.NET.<br/>
+Atuo profissionalmente há mais de 14 anos, sou formado em Análise e Desenvolvimento de Sistemas e <br/>
+cursei uns periodos em MBA em Engenharia de Software e também tenho alguns outros cursos concluidos.<br/>
 
 ### Minhas experiências
-
+- [x] Mentoria e Feedbacks para outros devs.
+- [x] Planejamento/Acompanhamento da sprint.
 - [x] Levantamento de Requisitos e filtragem em Requisitos Funcionais e não Funcionais
 - [x] Treinamento e Implantação de software
 - [x] Desenvolvimento do software desde sua arquitetura base até sua publicação
@@ -15,12 +16,12 @@ estou cursando MBA em Engenharia de Software.<br/>
 
 - [x] C# | VB.NET | VB6
 - [x] Postgres | Oracle | SqlServer | MySql
-- [x] Angular 2+
+- [x] Angular
 - [x] Ionic 4 (PWA)
 - [x] Crystal Reports
 - [x] TDD
 - [x] Testes Unitários | E2E | Regressão
-- [x] Design Patterns (Strategy, Observer, CQRS, Fluent Interface, Etc...)
+- [x] Design Patterns (Strategy, Builder, CQRS, Fluent Interface, Etc...)
 - [x] HTML
 - [x] CSS
 - [x] TypeScript
